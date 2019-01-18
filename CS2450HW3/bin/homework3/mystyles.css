@@ -1,0 +1,12 @@
+
+.root
+{
+		-fx-background-color: #72d2ff;
+		-fx-font-size: 30pt;
+		-fx-font-weight: bold;
+}
+.label
+{
+		-fx-text-fill: #003366;
+}
+
