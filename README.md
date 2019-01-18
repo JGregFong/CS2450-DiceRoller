@@ -1,2 +1,2 @@
-# CS2450
+# CS2450 Dice Roller
 Homework
